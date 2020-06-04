@@ -11,6 +11,8 @@ int main()
 		printf("%d\n", y*y);
 
 
+
 //		fdeedddddddddd
 
+//	jhgyf
 }
